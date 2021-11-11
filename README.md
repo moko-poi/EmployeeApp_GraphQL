@@ -10,6 +10,7 @@
 [DB]
 - Employee・・id, name, join_year, department
 - Department・・id, dept_name
+
 [GraphQL]
 - Department・・・Create, Get, Delete
 - Employee・・・Create, GetAll, Get, Update, Delete
